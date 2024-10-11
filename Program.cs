@@ -7,3 +7,5 @@ Pessoa p2 = new Pessoa(nome: "Eduardo Folco");
 
 hospedes.Add(p1);
 hospedes.Add(p2);
+
+Suite suite = new Suite(tipoSuite: "Premium", capacidade: 2, valorDiaria: 400.50M);
